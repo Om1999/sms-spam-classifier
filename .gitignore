@@ -1,0 +1,5 @@
+# Virtual Environment
+venv/
+.venv/
+ml-project-env/
+.python-version
